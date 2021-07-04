@@ -5,7 +5,7 @@ The goal of this project is to develop and implement an Extended Kalman filter (
 
 ## Experiments
 ### Angle estimations: EKF without any measurment updates
-<img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_timeUpdate_eul.png" width="320" height="320"> <img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_tilted_start_eul.png" width="320" height="320"> <img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_shake_eul.png" width="320" height="320">
+<img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_timeUpdate_eul.png" width="310" height="310"> <img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_tilted_start_eul.png" width="310" height="310"> <img src="https://github.com/karthiknagarajansundar/real-time-smartphone-orientation-estimation/blob/main/Images/task5_shake_eul.png" width="310" height="310">
 #### Estimates when rotated 90° about x,y,z  | Estimates when tilted in one direction | Estimates when shaking the phone along the surface
 
 ### Angle estimations: EKF with accelerometer update
