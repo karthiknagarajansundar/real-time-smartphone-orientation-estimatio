@@ -1,1 +1,1 @@
-# real-time-smartphone-orientation-estimation
+# Real time smartphone orientation estimation
